@@ -1,0 +1,24 @@
+{
+  "name": "@elemental-zcash/examples",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Example Elemental Zcash projects",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elemental-zcash/examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elemental-zcash/examples/issues"
+  },
+  "homepage": "https://github.com/elemental-zcash/examples#readme"
+}
